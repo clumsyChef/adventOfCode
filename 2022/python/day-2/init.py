@@ -45,6 +45,7 @@ def result(compInp, yourInp):
     return yourRef
         
 
+
 def calculatePoints():
     totalPoints = 0
     for line in data.readlines():
