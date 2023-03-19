@@ -1,5 +1,5 @@
 def countCals():
-    fileData = open("text-1.txt", "r")
+    fileData = open("input.txt", "r")
     eachCalories = []
     total = 0
     for i in fileData.readlines():
